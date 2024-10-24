@@ -1,4 +1,4 @@
-##                 👋 Hi there, I’m Christopher Berry
+## 👋 Hi there, I’m Christopher Berry
 
 Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New York
   
@@ -15,7 +15,7 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 
 ## 📫 How to Reach Me
 - www.linkedin.com/in/christopher-berry-338j
-- Christopher.Jeremiah.Berry@Gmail.com
+- christopherjberry846@gmail.com
 
 ## 🔗 My Projects
 Here are some of the projects I'm proud of:
