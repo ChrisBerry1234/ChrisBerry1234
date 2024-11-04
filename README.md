@@ -19,9 +19,9 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 
 ## 🔗 My Projects
 Here are some of the projects I'm proud of:
-- [Project 1](https://github.com/yourusername/project1) - Brief description of what it does.
-- [Project 2](https://github.com/yourusername/project2) - Brief description of what it does.
-- [Project 3](https://github.com/yourusername/project3) - Brief description of what it does.
+- [Project 1](https://github.com/ChrisBerry1234/7-Segment-Display-Exam) - Brief description of what it does.
+- [Project 2](https://github.com/ChrisBerry1234/2022-Capstone-Project) - Brief description of what it does.
+- [Project 3](https://github.com/ChrisBerry1234/Security-Motion-Sensing-Camera-Locking-System-) - Brief description of what it does.
 
 ## ⚡ Fun fact: 
 - I play instruments and love photography
