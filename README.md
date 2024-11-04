@@ -19,9 +19,9 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 
 ## 🔗 My Projects
 Here are some of the projects I'm proud of:
-- [7 Segment Display Exam](https://github.com/ChrisBerry1234/7-Segment-Display-Exam) - Brief description of what it does.
-- [Infared Heat Detecting Motion Sensor](https://github.com/ChrisBerry1234/2022-Capstone-Project) - Brief description of what it does.
-- [Security Motion Sensing Camera Locking System](https://github.com/ChrisBerry1234/Security-Motion-Sensing-Camera-Locking-System-) - Brief description of what it does.
+- [7 Segment Display Exam](https://github.com/ChrisBerry1234/7-Segment-Display-Exam) 
+- [Infared Heat Detecting Motion Sensor](https://github.com/ChrisBerry1234/2022-Capstone-Project) 
+- [Security Motion Sensing Camera Locking System](https://github.com/ChrisBerry1234/Security-Motion-Sensing-Camera-Locking-System-) 
 
 ## ⚡ Fun fact: 
 - I play instruments and love photography
