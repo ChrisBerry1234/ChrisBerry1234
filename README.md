@@ -7,10 +7,11 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 - My main interest are Hardware, Embedded Systems, IOT, and Software.
 
   
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning & Improving 
 - JavaScript
 - Linux
 - Python
+- C++
 - Fundamental of Engineering ( FE Exam )
 
 ## 📫 How to Reach Me
