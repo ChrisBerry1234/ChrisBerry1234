@@ -9,9 +9,9 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
   
 ## 🌱 I’m currently learning & Improving In
 - JavaScript
-- Linux
 - Python
-- C++
+- Web Development
+- C/C++
 - Fundamental of Engineering ( FE Exam )
 
 ## 📫 How to Reach Me
