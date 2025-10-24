@@ -12,6 +12,8 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 - Python
 - Web Development
 - C/C++
+- RTOS
+- Embedded Systems
 - Fundamental of Engineering ( FE Exam )
 
 ## 📫 How to Reach Me
