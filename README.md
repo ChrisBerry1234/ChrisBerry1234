@@ -3,8 +3,8 @@
 Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New York
   
 
-- 👀 I am passionate about learning about the world around us and providing real solutions to real worlds.
-- My main interest are Hardware, Embedded Systems, IOT, and Software and Web Development
+- 👀 I am passionate about learning about the world around us and providing real solutions to real world issues.
+- My main interest are Hardware, Embedded Systems, IOT, and Web Development
 
   
 ## 🌱 I’m currently learning & Improving In
@@ -14,6 +14,7 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 - C/C++
 - RTOS
 - Embedded Systems
+- VHDL
 - Fundamental of Engineering ( FE Exam )
 
 ## 📫 How to Reach Me
