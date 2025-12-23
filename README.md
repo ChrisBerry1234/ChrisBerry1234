@@ -14,7 +14,6 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 - C/C++
 - RTOS
 - Embedded Systems
-- VHDL
 - Fundamental of Engineering ( FE Exam )
 
 ## 📫 How to Reach Me
