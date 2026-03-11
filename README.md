@@ -6,12 +6,19 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 - 👀 I am passionate about learning about the world around us and providing real solutions to real world issues.
 - My main interest are Hardware, Embedded Systems, IOT, and Web Development
 
-  
 ## 🌱 I’m currently learning & Improving In
 - Full Stack Web Development
     - Front-End: React.js, HTML, CSS
     - Back-End: Node.js, Express.js, Flask, Go
     - Databases: PostgreSQL, SQLite
+- Embedded Systems
+    - C/C++
+    - Real-Time Operating Systems (RTOS)
+    - Computer Architecture
+    - Memory Management
+    - VHDL 
+ - Fundamentals of Engineering Exam (FE)
+   
 ## 📫 How to Reach Me
 - www.linkedin.com/in/christopher-berry-338j
 - christopherjberry846@gmail.com
