@@ -8,14 +8,10 @@ Welcome to my GitHub Profile! I'm a 2023 Computer Engineer Graduate based in New
 
   
 ## 🌱 I’m currently learning & Improving In
-- JavaScript
-- Python
-- Web Development
-- C/C++
-- RTOS
-- Embedded Systems
-- Fundamental of Engineering ( FE Exam )
-
+- Full Stack Web Development
+    - Front-End: React.js, HTML, CSS
+    - Back-End: Node.js, Express.js, Flask, Go
+    - Databases: PostgreSQL, SQLite
 ## 📫 How to Reach Me
 - www.linkedin.com/in/christopher-berry-338j
 - christopherjberry846@gmail.com
